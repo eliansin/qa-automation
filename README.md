@@ -1,34 +1,48 @@
-# QA Practice
+# QA Automation Cypress
 
-This repository contains QA practice exercises focused on improving testing skills and QA methodologies.
-
----
-
-# 🧪 Topics Included
-
-* Manual Testing
-* Functional Testing
-* Exploratory Testing
-* UI Validation
-* Test Case Design
-* Bug Analysis
+End-to-end automation testing project using Cypress on real-world websites.
 
 ---
 
-# 🎯 Objective
+# 🧪 Automated Test Scenarios
 
-Build practical QA experience through hands-on testing exercises and real-world testing scenarios.
+## SauceDemo
+
+* Login validation
+* Inventory validation
+* Shopping cart validation
+
+## Real Estate Website
+
+Website tested:
+https://www.dilletpropiedades.com.ar/
+
+### Automated flow:
+
+* Property search
+* Search execution
+* Result validation
+* First property verification
 
 ---
 
-# ⚙️ Tools
+# ⚙️ Technologies
 
-* Chrome DevTools
-* GitHub
-* VS Code
+* Cypress
+* JavaScript
+* Node.js
 
 ---
 
-# 🚀 Status
+# 🚀 Goal
 
-Currently in progress.
+Practice and improve QA automation skills through realistic end-to-end testing scenarios.
+
+---
+
+# ▶️ Run Tests
+
+```bash
+npx cypress open
+```
+
