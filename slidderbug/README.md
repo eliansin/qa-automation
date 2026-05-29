@@ -34,4 +34,4 @@ npx cypress run
 
 ## Evidence
 
-![Slider Bug Demo](slidderbug/evidence/BugSlidder.gif)
+![Slider Bug Demo](./evidence/BugSlidder.gif)
