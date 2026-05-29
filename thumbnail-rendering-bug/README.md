@@ -78,7 +78,7 @@ Low - Visual/UI Rendering Issue
 
 ### Automation Reproduction GIF
 
-![Automation Reproduction](./evidence/evidence.gif)
+![Automation Reproduction](./evidence/Evidence.gif)
 
 ---
 
