@@ -36,4 +36,4 @@ npx cypress run
 
 The automated reproduction of the issue is included in this repository: slider-bug.mp4
 
-![Slider Bug Demo](BugSlidder.gif)
+![Slider Bug Demo](slidderbug/evidence/BugSlidder.gif)
